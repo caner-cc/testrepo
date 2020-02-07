@@ -1,1 +1,1 @@
-Hello.. It's me.
+<?php echo "Hello.. It's me." ?>
